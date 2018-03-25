@@ -1,0 +1,28 @@
+{
+  "home": {
+    "text": "Je suis Margot, développeuse junior, étudiante en école de commerce, et passionnée de langues étrangères",
+    "briefcase": "Après le Bac, j’ai fait une classe préparatoire aux grandes écoles de commerce et ai intégré <a href='http://www.audencia.com' target='_blank' rel='noopener noreferrer'>Audencia</a>. Après deux premiers semestres, l’année dernière, j’ai découvert le développement web grâce à un stage. C’est rapidement devenu une passion et j’ai décidé de faire une césure pour m'y consacrer.",
+    "code": "J’ai commencé à apprendre à coder en autodidacte l’été dernier, puis ai candidaté à <a href='https://simplon.co/' target='_blank' rel='noopener noreferrer'>Simplon</a>, école du numérique et startup sociale et solidaire. Je suis actuellement une des formations de développement web (fullstack PHP), qui finit en avril.",
+    "heart": "J’aime lire–notamment en anglais, espagnol et portugais, faire des choses de mes mains et discuter de problématiques sociétales (féminisme, inclusion, éducation...). J’ai hâte de monter en compétences, étudier à l’étranger et trouver mon job idéal, à mi-chemin entre <i>software engineer</i> et <i>project manager</i>.",
+    "seePortfolio": "Portfolio"
+  },
+  "header": {
+    "projects": "Projets",
+    "language": "Langue"
+  },
+  "contact": {
+    "getInTouch": "Contactez-moi!",
+    "yourName": "Votre nom",
+    "yourEmail": "Votre mail",
+    "yourMessage": "Votre message",
+    "send": "Envoyer",
+    "madeWith": "Réalisé avec"
+  },
+  "projects": {
+    "personal": "rojets personnels",
+    "contributed": "rojets auxquels j’ai contribué",
+    "occ": "Une base de données collaborative des collèges et lycées de France, réalisée pour une startup d'État où j’ai fait un stage",
+    "lexicode": "Site que j’utilise pour stocker des notes en lien avec le code",
+    "bt": "Une startup d’apprentissage de langues où j’ai fait un stage et ai travaillé sur le site"
+  }
+}

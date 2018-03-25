@@ -1,0 +1,28 @@
+{
+  "home": {
+    "text": "I’m Margot, a French junior developer, business student, and foreign languages enthusiast",
+    "briefcase": "I did a “preparatory class” after high school (a demanding two-year program to prepare the entry exams to France’s top business schools) and was admitted into <a href='http://www.audencia.com/en/' target='_blank' rel='noopener noreferrer'>Audencia</a>. After my first two semesters, last year, I discovered web development thanks to an internship, fell in love with it, and decided to take a year off to become a developer.",
+    "code": "I started learning how to code last summer on my own, then applied to <a href='https://simplon.co/' target='_blank' rel='noopener noreferrer'>Simplon</a>, a state and EU funded school and social startup. I am now attending their seven months web development program (fullstack PHP) that ends in April.",
+    "heart": "I love reading books–especially in English, Spanish and Portuguese, crafting things and discussing social matters (from feminism to social inclusion to education). I look forward to learning new skills, studying abroad and finding my dream job, part software engineer, part project manager.",
+    "seePortfolio": "Portfolio"
+  },
+  "header": {
+    "projects": "Projects",
+    "language": "Language"
+  },
+  "contact": {
+    "getInTouch": "Get in touch !",
+    "yourName": "Your name",
+    "yourEmail": "Your email",
+    "yourMessage": "Your message",
+    "send": "Send",
+    "madeWith": "Made with"
+  },
+  "projects": {
+    "personal": "ersonal projects",
+    "contributed": "rojects I’ve contributed to",
+    "occ": "A collaborative database of all the secondary schools in France that I made for a ”State startup”",
+    "lexicode": "A collection of notes on code-related topics",
+    "bt": "A language-teaching startup where I worked on the website as an intern"
+  }
+}
